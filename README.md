@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=250&section=header&text=Shabeena%20Khan&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Tech%20for%20Good&descSize=20&descAlignY=55" width="100%"/>
 </h1>
 
-
-
-# Hi, I'm Shabeena Khan
-
 ### 🎓 Final Bachelor of Computer Applications Student | 💻 Web Developer
 ### 📍 Saharanpur, Uttar Pradesh, India
 
@@ -106,6 +102,8 @@ Full-stack applications
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60">
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -130,6 +128,49 @@ Full-stack applications
 </div>
 
 ---
+
+### 🌟 My Core Values
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="60"><br>
+<b>🌙 Faith</b><br>
+<sub>Guided by Islamic principles</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60"><br>
+<b>📚 Learning</b><br>
+<sub>Always growing & improving</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"><br>
+<b>🤝 Community</b><br>
+<sub>Helping others succeed</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="60"><br>
+<b>💡 Innovation</b><br>
+<sub>Creating solutions</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyg/giphy.gif" width="60"><br>
+<b>🎯 Excellence</b><br>
+<sub>Quality over quantity</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+> "Learning with patience • Trusting Allah • Growing every day"
+
+</div>
+
+---
+
+<div align="center">
+
 
 ### 📊 Contribution Graph
 
