@@ -250,7 +250,7 @@ Full-stack applications
 </tr>
 <tr>
 <td align="center">
-<a href="http://www.youtube.com/@Nabeeltech7860">
+<a href="http://www.youtube.com/@shabeenatechofficial">
   <img src="https://img.shields.io/badge/🎬_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </td>
