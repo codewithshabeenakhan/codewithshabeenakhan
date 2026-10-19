@@ -255,13 +255,13 @@ Full-stack applications
 </a>
 </td>
 <td align="center">
-<a href="#">
-  <img src="https://img.shields.io/badge/📝_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://sites.google.com/view/bcadigitallibrary/home" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
 </a>
 </td>
 <td align="center">
-<a href="#">
-  <img src="https://img.shields.io/badge/💬_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+<a href="https://aamaadmikanazariya.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 </td>
 </tr>
